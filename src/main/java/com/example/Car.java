@@ -2,6 +2,7 @@ package com.example;
 
 public class Car {
 	
-	private int speed = 300;
+
+	private Integer speed;
 
 }
